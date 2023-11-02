@@ -22,7 +22,7 @@ My journey into the world of coding began with this intricate CLI Tic Tac Toe ga
     - X came across an indescribably funny shape in its apparently most odd form!
 - Code to deal with situations where a player makes more than one of the same shape in a turn:
     - O found 2 upside down horseshoes!
-    (The code to handle this can be seen in initialshapedata.py)
+    (The code to handle this can be seen in [initialshapedata.py](initialshapedata.py))
 
 ## Installation & Setup
 
