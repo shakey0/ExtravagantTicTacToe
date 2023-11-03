@@ -34,5 +34,5 @@ cd ExtravagantTicTacToe
 
 Run the app in the CLI:
 ```bash
-python app.py
+python main.py
 ```
